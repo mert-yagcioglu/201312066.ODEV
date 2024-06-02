@@ -1,4 +1,6 @@
 "Breast Cancer Wisconsin Diagnostic" data set was used in this project.
+
+
 First Result:
 ![indir](https://github.com/mert-yagcioglu/K-MEANS-and-K-MEDOIDS/assets/75527272/b527de37-1137-499d-a114-c4dd041f2655)
 
